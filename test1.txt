@@ -1,2 +1,6 @@
 minsk
 belarus
+
+grodno
+kiev
+mogilev
